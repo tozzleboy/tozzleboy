@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tozzleboy" alt="tozzleboy" /></a> </p>
 
-- 🔭 I’m currently working on [Simple Tickets](https://github.com/simpletickets)
+- 🔭 I’m currently working on [Simple Support](https://github.com/simplesupport)
 
 - 🌱 I’m currently learning **Vue.js, (FULL) Java, HTML + CSS, C#, React**
 
