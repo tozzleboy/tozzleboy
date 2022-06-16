@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Christian!</h1> 
+<h1 align="center">Hi 👋, I'm Christian!</h1>
 <h3 align="center">I'm a 14 year old whose passionate about development and would love to make some programs/projects that help and satisfy peoples wants!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tozzleboy&label=Profile%20views&color=0e75b6&style=flat-square" alt="tozzleboy" /> </p>
@@ -25,8 +25,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/cmcdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cmcdev" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tozzleboy&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="tozzleboy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tozzleboy&show_icons=true&theme=dark&locale=en&layout=compact" alt="tozzleboy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tozzleboy&show_icons=true&theme=cobalt&locale=en" alt="tozzleboy" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tozzleboy&show_icons=true&theme=dark&locale=en" alt="tozzleboy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tozzleboy&theme=highcontrast" alt="tozzleboy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tozzleboy&theme=dark" alt="tozzleboy" /></p>
