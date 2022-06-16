@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tozzleboy, but you can call me Chris/Christian!</h1>
+<h1 align="center">Hi 👋, I'm Tozzleboy,</h1>
+<h2 align="center">but you can call me Chris!</h1>
 <h3 align="center">I'm a 14 year old whose passionate about development and would love to make some programs/projects that help and satisfy peoples wants!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tozzleboy&label=Profile%20views&color=0e75b6&style=flat-square" alt="tozzleboy" /> </p>
